@@ -1,1 +1,1 @@
-# COVID-19-MAJOR-PROJECT
+# This a major project focusing on the pandemic COVID 19 .It gives us detailed analysis of the statistics in the country via graph and plots and commands.The no of active cases,confirmed cases,deaths,cured/discharged people in various states of the country and the world in general.Also it is a model which predicts the active cases trend in the future for India,the national capital of India(Delhi) and the world
